@@ -38,6 +38,7 @@
 ||spotirfy-help-b49b36.ingress-bonde.ewp.live^
 ||xiapee.com^
 ||staticsns.cdn.bcebos.com^
+||xunlong.tech^
 
 ! 內政部警政署 165 全民防騙網  https://165.npa.gov.tw
 ||bbncmd.com^
