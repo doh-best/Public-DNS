@@ -12,6 +12,7 @@
 @@||lap-click.tr.line.me^
 @@||mobile.pipe.aria.microsoft.com^
 @@||wl.spotify.com^
+@@||dcf.espn.com^
 
 ! 黑名單
 ||ad*.nownews.com^
