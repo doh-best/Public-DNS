@@ -43,6 +43,17 @@
 ||post-chunghwa-tw.app^
 ||ip.ophe.im^
 ||1315.kaefsick.live^
+||c.msn.com^
+||c.msn.cn^
+||ntp.msn.com^
+||ntp.msn.cn^
+||assets.msn.com^
+||assets.msn.cn^
+||api.msn.com^
+||api.msn.cn^
+||pipe.aria.microsoft.com^
+||pipe.aria.microsoft.cn^
+||web.vortex.data.microsoft.cn^
 
 
 ! 內政部警政署 165 全民防騙網  https://165.npa.gov.tw
