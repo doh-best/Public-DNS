@@ -1,17 +1,16 @@
 ! Homepage: https://github.com/doh-best/Public-DNS
-! Last modified: 2023-03-28
+! Last modified: 2023-03-31
 
 ! 白名單
 @@||s.youtube.com^
 @@||fls-na.amazon.com^
 @@||googletagmanager.com^
+@@||google-analytics.com^
 @@||msg.ettoday.net^
 !@@||lap-click.tr.line.me^
 @@||mobile.pipe.aria.microsoft.com^
 @@||securemetrics.apple.com^
-@@||google-analytics.com^
 @@||c-api-bit.shopeemobile.com^
-@@||tg.pe^
 
 ! 黑名單
 ||ad*.nownews.com^
@@ -43,6 +42,7 @@
 ||post-chunghwa-tw.app^
 ||ip.ophe.im^
 ||1315.kaefsick.live^
+||zxw-tw.cn^
 
 
 ! 內政部警政署 165 全民防騙網  https://165.npa.gov.tw
