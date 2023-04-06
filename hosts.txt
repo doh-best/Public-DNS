@@ -1,5 +1,5 @@
 ! Homepage: https://github.com/doh-best/Public-DNS
-! Last modified: 2023-04-02
+! Last modified: 2023-04-06
 
 ! 白名單
 @@||s.youtube.com^
@@ -43,6 +43,9 @@
 ||ip.ophe.im^
 ||1315.kaefsick.live^
 ||zxw-tw.cn^
+||inloe1xf.vip^
+||builderallwppro.com^
+||rinsr.vip^
 
 
 ! 內政部警政署 165 全民防騙網  https://165.npa.gov.tw
