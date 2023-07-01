@@ -1,16 +1,17 @@
 ! Homepage: https://github.com/doh-best/Public-DNS
-! Last modified: 2023-04-08
+! Last modified: 2023-07-01
 
 ! 白名單
-@@||s.youtube.com^
-@@||fls-na.amazon.com^
-@@||googletagmanager.com^
-@@||google-analytics.com^
-@@||msg.ettoday.net^
-!@@||lap-click.tr.line.me^
-@@||mobile.pipe.aria.microsoft.com^
-@@||securemetrics.apple.com^
-@@||c-api-bit.shopeemobile.com^
+@@||s.youtube.com^$important
+@@||fls-na.amazon.com^$important
+@@||googletagmanager.com^$important
+@@||google-analytics.com^$important
+@@||msg.ettoday.net^$important
+@@||lap-click.tr.line.me^$important
+@@||mobile.pipe.aria.microsoft.com^$important
+@@||securemetrics.apple.com^$important
+@@||c-api-bit.shopeemobile.com^$important
+@@||securepubads.g.doubleclick.net^$important
 
 ! 黑名單
 ||ad*.nownews.com^
