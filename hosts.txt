@@ -12,6 +12,7 @@
 @@||securemetrics.apple.com^$important
 @@||c-api-bit.shopeemobile.com^$important
 @@||securepubads.g.doubleclick.net^$important
+@@||ovh.commander1.com^$important
 
 ! 黑名單
 ||ad*.nownews.com^
