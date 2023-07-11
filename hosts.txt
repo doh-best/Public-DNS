@@ -11,7 +11,7 @@
 @@||mobile.pipe.aria.microsoft.com^$important
 @@||securemetrics.apple.com^$important
 @@||c-api-bit.shopeemobile.com^$important
-@@||securepubads.g.doubleclick.net^$important
+! @@||securepubads.g.doubleclick.net^$important
 @@||ovh.commander1.com^$important
 
 ! 黑名單
