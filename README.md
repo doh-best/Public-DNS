@@ -3,7 +3,7 @@
 ## doh.best  預設使用過濾清單的 Public-DNS 
 
 ### DNS 伺服器架構使用 [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome) + [Unbound](https://github.com/NLnetLabs/unbound)
-### 沒有查詢紀錄，24小時的統計資訊
+### 保留12小時查詢紀錄，12小時統計資訊
 
 
 ## DNS over HTTPS
@@ -15,9 +15,6 @@ https://doh.best/dns-query
 https://dns.doh.best/dns-query
 ```
 
-```
-https://dns1.doh.best/dns-query
-```
 
 ## DNS over TLS
 ```
@@ -28,9 +25,6 @@ tls://doh.best
 tls://dns.doh.best
 ```
 
-```
-tls://dns1.doh.best
-```
 
 ## DNS over QUIC
 ```
@@ -41,9 +35,6 @@ quic://doh.best
 quic://dns.doh.best
 ```
 
-```
-quic://dns1.doh.best
-```
 
 ## DNS 53
 ```
@@ -63,4 +54,14 @@ https://raw.githubusercontent.com/doh-best/Public-DNS/main/hosts.txt
 
 https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 
-https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+https://raw.githubusercontent.com/FutaGuard/LowTechFilter/master/hosts.txt
+
+https://raw.githubusercontent.com/FutaGuard/LowTechFilter/master/TW165.txt
+
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_30.txt
+
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_10.txt
+
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_42.txt
+
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_11.txt
