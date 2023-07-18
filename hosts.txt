@@ -9,6 +9,9 @@
 @@||*.apple-cloudkit.com^$important
 @@||*.line.me^$important
 @@||*.line-apps.com^$important
+@@||*.line-scdn.net^$important
+@@||*.line.naver.jp^$important
+@@||*.linecorp.com^$important
 @@||google-analytics.com^$important
 @@||msg.ettoday.net^$important
 @@||c-api-bit.shopeemobile.com^$important
