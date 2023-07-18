@@ -4,6 +4,7 @@
 ! 白名單
 @@||*apple.com^$important
 @@||*apple.com.akadns.net^$important
+@@||*aaplimg.com^$important
 @@||*icloud.com^$important
 @@||*apple-dns.net^$important
 @@||*icloud-content.com^$important
