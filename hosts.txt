@@ -2,7 +2,7 @@
 ! Last modified: 2023-07-18
 
 ! 白名單
-@@||*apple.com.akadns.net^$important
+@@||*.apple.com.akadns.net^$important
 @@||*icloud.com^$important
 @@||*apple-dns.net^$important
 @@||*icloud-content.com^$important
