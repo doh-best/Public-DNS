@@ -1,5 +1,5 @@
 ! Homepage: https://github.com/doh-best/Public-DNS
-! Last modified: 2023-07-18
+! Last modified: 2023-07-19
 
 ! 白名單
 ! @@||*apple.com^$important
