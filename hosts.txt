@@ -2,23 +2,23 @@
 ! Last modified: 2023-07-18
 
 ! 白名單
-@@||*apple.com^$important
-@@||*apple.com.akadns.net^$important
-@@||*aaplimg.com^$important
-@@||*icloud.com^$important
-@@||*apple-dns.net^$important
-@@||*icloud-content.com^$important
-@@||*apple-cloudkit.com^$important
-@@||*line.me^$important
-@@||*line-apps.com^$important
-@@||*line-scdn.net^$important
-@@||*line.naver.jp^$important
-@@||*linecorp.com^$important
-@@||google-analytics.com^$important
-@@||msg.ettoday.net^$important
-@@||c-api-bit.shopeemobile.com^$important
-@@||ovh.commander1.com^$important
-@@||securepubads.g.doubleclick.net^$important
+! @@||*apple.com^$important
+! @@||*apple.com.akadns.net^$important
+! @@||*aaplimg.com^$important
+! @@||*icloud.com^$important
+! @@||*apple-dns.net^$important
+! @@||*icloud-content.com^$important
+! @@||*apple-cloudkit.com^$important
+! @@||*line.me^$important
+! @@||*line-apps.com^$important
+! @@||*line-scdn.net^$important
+! @@||*line.naver.jp^$important
+! @@||*linecorp.com^$important
+! @@||google-analytics.com^$important
+! @@||msg.ettoday.net^$important
+! @@||c-api-bit.shopeemobile.com^$important
+! @@||ovh.commander1.com^$important
+! @@||securepubads.g.doubleclick.net^$important
 
 ! 黑名單
 ||new-beats.com.tw^
