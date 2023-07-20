@@ -9,7 +9,6 @@
 @@||msg.ettoday.net^$important
 @@||c-api-bit.shopeemobile.com^$important
 @@||ovh.commander1.com^$important
-@@||securepubads.g.doubleclick.net^$important
 @@||lihi1.com^$important
 
 ! 黑名單
