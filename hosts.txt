@@ -5,6 +5,7 @@
 @@||*line.me^$important
 @@||*line-apps.com^$important
 @@||google-analytics.com^$important
+@@||googletagmanager.com^$important
 @@||msg.ettoday.net^$important
 @@||c-api-bit.shopeemobile.com^$important
 @@||ovh.commander1.com^$important
