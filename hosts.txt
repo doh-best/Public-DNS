@@ -2,6 +2,7 @@
 ! Last modified: 2023-07-20
 
 ! 白名單
+@@||*line.me^$important
 @@||google-analytics.com^$important
 @@||msg.ettoday.net^$important
 @@||c-api-bit.shopeemobile.com^$important
