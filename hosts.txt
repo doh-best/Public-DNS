@@ -1,7 +1,8 @@
 ! Homepage: https://github.com/doh-best/Public-DNS
-! Last modified: 2023-07-20
+! Last modified: 2023-07-21
 
 ! 白名單
+@@||*apple.com^$important
 @@||*line.me^$important
 @@||*line-apps.com^$important
 @@||*applovin.com^$important
@@ -12,6 +13,7 @@
 @@||c-api-bit.shopeemobile.com^$important
 @@||app-measurement.com^$important
 @@||s.youtube.com^$important
+@@||metrics.icloud.com^$important
 
 ! 黑名單
 ||new-beats.com.tw^
