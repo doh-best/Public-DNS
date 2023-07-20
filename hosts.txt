@@ -4,12 +4,16 @@
 ! 白名單
 @@||*line.me^$important
 @@||*line-apps.com^$important
+@@||*line-scdn.net^$important
+@@||*applovin.com^$important
 @@||google-analytics.com^$important
 @@||googletagmanager.com^$important
+@@||securepubads.g.doubleclick.net^$important
 @@||msg.ettoday.net^$important
 @@||c-api-bit.shopeemobile.com^$important
 @@||ovh.commander1.com^$important
 @@||lihi1.com^$important
+@@||app-measurement.com^$important
 
 ! 黑名單
 ||new-beats.com.tw^
