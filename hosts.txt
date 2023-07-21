@@ -14,10 +14,4 @@
 @@||app-measurement.com^$important
 @@||s.youtube.com^$important
 @@||metrics.icloud.com^$important
-
-! 黑名單
-||new-beats.com.tw^
-||hda.cat^
-||staticsns.cdn.bcebos.com^
-||xunlong.tech^
-||telegram-kks.com^
+@@||lihi1.com^$important
