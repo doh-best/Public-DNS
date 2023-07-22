@@ -1,5 +1,5 @@
 ! Homepage: https://github.com/doh-best/Public-DNS
-! Last modified: 2023-07-21
+! Last modified: 2023-07-22
 
 ! 白名單
 @@||*apple.com^$important
@@ -15,3 +15,4 @@
 @@||s.youtube.com^$important
 @@||metrics.icloud.com^$important
 @@||lihi1.com^$important
+@@||api.agoda.com.edgekey.net^$important
