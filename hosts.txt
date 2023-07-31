@@ -1,31 +1,14 @@
 ! Homepage: https://github.com/doh-best/Public-DNS
-! Last modified: 2023-07-30
+! Last modified: 2023-08-01
 
 ! 白名單
-@@||*apple.com^$important
-@@||*line.me^$important
-@@||*line-apps.com^$important
-@@||*applovin.com^$important
-@@||*cc-api-data.adobe.io^$important
-@@||*googleapis.com^$important
-@@||*googletagmanager.com^$important
-@@||*googletagservices.com^$important
-@@||*stats.paypal.com^$important
 @@||google-analytics.com^$important
 @@||securepubads.g.doubleclick.net^$important
+@@||pubads.g.doubleclick.net^$important
 @@||msg.ettoday.net^$important
-@@||c-api-bit.shopeemobile.com^$important
-@@||app-measurement.com^$important
-@@||s.youtube.com^$important
-@@||metrics.icloud.com^$important
-@@||lihi1.com^$important
-@@||api.agoda.com.edgekey.net^$important
-@@||c00.adobe.com^$important
-@@||csi.gstatic.com^$important
-@@||smartlock.google.com^$important
-@@||ichnaea.netflix.com^$important
-@@||audid-api.taobao.com^$important
 @@||ovh.commander1.com^$important
+@@||lap-click.tr.line.me^$important
+@@||uts-front.line-apps.com^$important
 
 
 ! 黑名單
