@@ -1,5 +1,5 @@
 ! Homepage: https://github.com/doh-best/Public-DNS
-! Last modified: 2023-08-02
+! Last modified: 2023-08-14
 
 ! 白名單
 @@||google-analytics.com^$important
@@ -12,11 +12,18 @@
 
 
 ! 黑名單
-||qey.buzz^
-||zxj.one^
-||teiegarm-us.com^
-||zlibrary.to^
-||z-lib.is^
-||z-lib.io^
-||wed3-org.cfd^
-||waiteer.buzz^
+||qey.buzz^$important
+||zxj.one^$important
+||teiegarm-us.com^$important
+||zlibrary.to^$important
+||z-lib.is^$important
+||z-lib.io^$important
+||wed3-org.cfd^$important
+||waiteer.buzz^$important
+||lulzim-gartenbau.de^$important
+||fldhau.net^$important
+||telegarm.wed-c.mom^$important
+||waterappr.top^$important
+||telegrsms.com^$important
+||telegrzn-org.cc^$important
+||i-teiegram.org^$important
