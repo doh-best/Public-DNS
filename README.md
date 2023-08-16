@@ -5,7 +5,7 @@
 ### DNS 伺服器 [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome)
 ### 12小時查詢紀錄，12小時統計資訊
 
-
+  
 ## DNS-over-HTTPS & HTTP/3
 ```
 https://doh.best/dns-query
