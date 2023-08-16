@@ -1,5 +1,5 @@
 ! Homepage: https://github.com/doh-best/Public-DNS
-! Last modified: 2023-08-15
+! Last modified: 2023-08-16
 
 ! 白名單
 @@||google-analytics.com^$important
@@ -10,6 +10,7 @@
 @@||ovh.commander1.com^$important
 @@||lap-click.tr.line.me^$important
 @@||uts-front.line-apps.com^$important
+@@||moptt.tw^$important
 
 
 ! 黑名單
