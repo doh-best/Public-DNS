@@ -3,7 +3,7 @@
 ## doh.best  使用過濾清單的 Public-DNS 
 
 ### DNS 伺服器 [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome)
-### 12小時查詢紀錄，12小時統計資訊
+### 12小時查詢紀錄，12小時統計資訊<br>
 
 
 ## DNS-over-HTTPS & HTTP/3
