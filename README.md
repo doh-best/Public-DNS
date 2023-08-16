@@ -1,12 +1,12 @@
 # DNS Resolver
 
-## doh.best  預設使用過濾清單的 Public-DNS 
+## doh.best  使用過濾清單的 Public-DNS 
 
-### DNS 伺服器架構使用 [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome) + [Unbound](https://github.com/NLnetLabs/unbound)
-### 保留12小時查詢紀錄，12小時統計資訊
+### DNS 伺服器 [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome)
+### 12小時查詢紀錄，12小時統計資訊
 
 
-## DNS over HTTPS
+## DNS-over-HTTPS & HTTP/3
 ```
 https://doh.best/dns-query
 ```
@@ -36,32 +36,21 @@ quic://dns.doh.best
 ```
 
 
-## DNS 53
-```
-103.201.130.213
-15.235.141.22
-15.235.163.252
-
-2a12:a301:2::10eb
-2402:1f00:8000:800::1c64
-2402:1f00:8000:800::369e
-```
-
-
 ## 過濾清單
 
 https://raw.githubusercontent.com/doh-best/Public-DNS/main/hosts.txt
 
+AdGuard DNS filter
 https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 
-https://raw.githubusercontent.com/FutaGuard/LowTechFilter/master/hosts.txt
+OISD Blocklist BIG
+https://big.oisd.nl/
 
-https://raw.githubusercontent.com/FutaGuard/LowTechFilter/master/TW165.txt
-
+Phishing URL Blocklist (PhishTank and OpenPhish)
 https://adguardteam.github.io/HostlistsRegistry/assets/filter_30.txt
 
-https://adguardteam.github.io/HostlistsRegistry/assets/filter_10.txt
+LowTechFilter
+https://raw.githubusercontent.com/FutaGuard/LowTechFilter/master/hosts.txt
 
-https://adguardteam.github.io/HostlistsRegistry/assets/filter_42.txt
-
-https://adguardteam.github.io/HostlistsRegistry/assets/filter_11.txt
+LowTechFilter TW165
+https://raw.githubusercontent.com/FutaGuard/LowTechFilter/master/TW165.txt
