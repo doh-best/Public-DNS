@@ -19,6 +19,9 @@
 @@||gemini.yahoo.com^$important
 @@||api.mixpanel.com^$important
 @@||cdn.qgraph.io^$important
+@@||appleglobal.102.112.2o7.net^$important
+@@||weather-analytics-events.apple.com^$important
+@@||h-adashx.ut.taobao.com^$important
 
 
 ! 黑名單
