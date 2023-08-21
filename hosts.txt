@@ -37,3 +37,6 @@
 ||telegrsms.com^$important
 ||telegrzn-org.cc^$important
 ||i-teiegram.org^$important
+||mvdlis-tw.top^$important
+||mudis-tw.cc^$important
+||oefwudtwt.top^$important
