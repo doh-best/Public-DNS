@@ -1,5 +1,5 @@
 ! Homepage: https://github.com/doh-best/Public-DNS
-! Last modified: 2023-08-21
+! Last modified: 2023-08-22
 
 ! 白名單
 @@||google-analytics.com^$important
@@ -13,7 +13,6 @@
 @@||moptt.tw^$important
 @@||app.adjust.com^$important
 @@||config.emb-api.com^$important
-@@||cdn.taboola.com^$important
 @@||firebaselogging.googleapis.com^$important
 @@||data.emb-api.com^$important
 @@||gemini.yahoo.com^$important
@@ -22,6 +21,9 @@
 @@||appleglobal.102.112.2o7.net^$important
 @@||weather-analytics-events.apple.com^$important
 @@||h-adashx.ut.taobao.com^$important
+@@||cdn.codeblackbelt.com^$important
+@@||adclick.g.doubleclick.net^$important
+@@||googleads.g.doubleclick.net^$important
 
 
 ! 黑名單
@@ -43,3 +45,4 @@
 ||mvdlis-tw.top^$important
 ||mudis-tw.cc^$important
 ||oefwudtwt.top^$important
+||tw-mvdis.xyz^$important
