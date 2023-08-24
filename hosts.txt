@@ -1,5 +1,5 @@
 ! Homepage: https://github.com/doh-best/Public-DNS
-! Last modified: 2023-08-22
+! Last modified: 2023-08-25
 
 ! 白名單
 @@||google-analytics.com^$important
@@ -23,7 +23,6 @@
 @@||h-adashx.ut.taobao.com^$important
 @@||cdn.codeblackbelt.com^$important
 @@||adclick.g.doubleclick.net^$important
-@@||googleads.g.doubleclick.net^$important
 
 
 ! 黑名單
