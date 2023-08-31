@@ -4,6 +4,8 @@
 
 ### DNS 伺服器 [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome)   
 
+### 不影響使用的前提下去過濾，適合一般使用者
+
 ### 12H Statistics，1H Log   
 
 ## 台灣
@@ -47,8 +49,20 @@ https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 Phishing URL Blocklist (PhishTank and OpenPhish)   
 https://adguardteam.github.io/HostlistsRegistry/assets/filter_30.txt
 
+Scam Blocklist by DurableNapkin   
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_10.txt
+
+ShadowWhisperer's Malware List   
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_42.txt
+
+Malicious URL Blocklist (URLHaus)   
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_11.txt
+
+The Big List of Hacked Malware Web Sites   
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_9.txt
+
 LowTechFilter   
 https://raw.githubusercontent.com/FutaGuard/LowTechFilter/master/hosts.txt
 
-LowTechFilter TW165   
+LowTechFilter 臺灣 165 反詐騙   
 https://raw.githubusercontent.com/FutaGuard/LowTechFilter/master/TW165.txt
