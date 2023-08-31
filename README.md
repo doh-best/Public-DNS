@@ -43,7 +43,7 @@ quic://dns.doh.best
 
 https://raw.githubusercontent.com/doh-best/Public-DNS/main/hosts.txt
 
-AdGuard DNS filter   
+[AdGuard DNS filter](https://github.com/AdguardTeam/AdguardSDNSFilter)   
 https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 
 Phishing URL Blocklist (PhishTank and OpenPhish)   
