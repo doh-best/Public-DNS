@@ -10,6 +10,8 @@
 
 ## 台灣
 
+[IOS 描述檔](https://github.com/doh-best/Public-DNS/raw/main/doh.best.mobileconfig)
+
 ## DNS-over-HTTPS & HTTP/3
 ```
 https://doh.best/dns-query
@@ -24,6 +26,8 @@ quic://doh.best
 ```
 
 ## 新加坡
+
+[IOS 描述檔](https://github.com/doh-best/Public-DNS/raw/main/dns.doh.best.mobileconfig)
 
 ## DNS-over-HTTPS & HTTP/3
 ```
