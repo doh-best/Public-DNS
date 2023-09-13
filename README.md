@@ -1,12 +1,10 @@
 # DNS Resolver
 
-## doh.best  使用過濾規則清單的 Public-DNS 
+## doh.best  套用過濾清單的 Public-DNS 
 
 ### DNS 伺服器 [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome)   
 
-### 不影響使用的前提下去過濾，適合一般使用者
-
-### 12H Statistics，1H Log   
+### 12H Statistics，12H Log   
 
 ## 台灣
 
