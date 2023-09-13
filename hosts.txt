@@ -1,5 +1,5 @@
 ! Homepage: https://github.com/doh-best/Public-DNS
-! Last modified: 2023-09-13
+! Last modified: 2023-09-14
 
 ! 白名單
 @@||google-analytics.com^$important
@@ -15,6 +15,7 @@
 @@||weather-analytics-events.apple.com^$important
 @@||static.cloudflareinsights.com^$important
 @@||succeedscene.com^$important
+@@||shopback.go2cloud.org^important
 
 ! 黑名單
 ||qey.buzz^$important
