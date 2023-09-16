@@ -1,29 +1,19 @@
 ! Homepage: https://github.com/doh-best/Public-DNS
-! Last modified: 2023-09-14
+! Last modified: 2023-09-17
 
 ! 白名單
 @@||google-analytics.com^$important
 @@||securepubads.g.doubleclick.net^$important
 @@||pubads.g.doubleclick.net^$important
-@@||ad.doubleclick.net^$important
-@@||msg.ettoday.net^$important
-@@||ovh.commander1.com^$important
 @@||lap-click.tr.line.me^$important
 @@||moptt.tw^$important
-@@||app.adjust.com^$important
-@@||appleglobal.102.112.2o7.net^$important
-@@||weather-analytics-events.apple.com^$important
 @@||static.cloudflareinsights.com^$important
-@@||succeedscene.com^$important
 @@||shopback.go2cloud.org^important
 
 ! 黑名單
 ||qey.buzz^$important
 ||zxj.one^$important
 ||teiegarm-us.com^$important
-||zlibrary.to^$important
-||z-lib.is^$important
-||z-lib.io^$important
 ||wed3-org.cfd^$important
 ||waiteer.buzz^$important
 ||lulzim-gartenbau.de^$important
