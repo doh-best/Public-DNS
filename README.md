@@ -48,20 +48,17 @@ https://raw.githubusercontent.com/doh-best/Public-DNS/main/hosts.txt
 [AdGuard DNS filter](https://github.com/AdguardTeam/AdguardSDNSFilter)   
 https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 
-[Phishing URL Blocklist (PhishTank and OpenPhish)](https://gitlab.com/malware-filter/phishing-filter)   
-https://adguardteam.github.io/HostlistsRegistry/assets/filter_30.txt
+[HaGeZi's Allowlist](https://github.com/hagezi/dns-blocklists)   
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/whitelist.txt
 
-[Scam Blocklist by DurableNapkin](https://github.com/durablenapkin/scamblocklist)   
-https://adguardteam.github.io/HostlistsRegistry/assets/filter_10.txt
+[HaGeZi's Allowlist Referral](https://github.com/hagezi/dns-blocklists)   
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/whitelist-referral.txt
 
-[ShadowWhisperer's Malware List](https://github.com/ShadowWhisperer/BlockLists)   
-https://adguardteam.github.io/HostlistsRegistry/assets/filter_42.txt
+[HaGeZi's Allowlist URL Shortener](https://github.com/hagezi/dns-blocklists)   
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/whitelist-urlshortener.txt
 
-[Malicious URL Blocklist (URLHaus)](https://urlhaus.abuse.ch/)   
-https://adguardteam.github.io/HostlistsRegistry/assets/filter_11.txt
-
-[The Big List of Hacked Malware Web Sites](https://github.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites)   
-https://adguardteam.github.io/HostlistsRegistry/assets/filter_9.txt
+[HaGeZi's Pro](https://github.com/hagezi/dns-blocklists)   
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt
 
 [LowTechFilter](https://github.com/FutaGuard/LowTechFilter)   
 https://raw.githubusercontent.com/FutaGuard/LowTechFilter/master/hosts.txt
