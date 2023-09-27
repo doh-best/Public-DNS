@@ -1,5 +1,5 @@
 ! Homepage: https://github.com/doh-best/Public-DNS
-! Last modified: 2023-09-17
+! Last modified: 2023-09-28
 
 ! 白名單
 @@||google-analytics.com^$important
@@ -31,3 +31,4 @@
 ||teleoram.xyz^$important
 ||telegarm-web.com^$important
 ||atoshpe.americommerce.com^$important
+||got-hoi.cc^$important
