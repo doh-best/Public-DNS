@@ -9,6 +9,7 @@
 @@||moptt.tw^$important
 @@||static.cloudflareinsights.com^$important
 @@||shopback.go2cloud.org^important
+@@||data.em2.cloudflare.com^$important
 
 ! 黑名單
 ||qey.buzz^$important
@@ -32,3 +33,5 @@
 ||telegarm-web.com^$important
 ||atoshpe.americommerce.com^$important
 ||got-hoi.cc^$important
+||tio-ha.cc^$important
+||autidior.pages.net.br^$important
