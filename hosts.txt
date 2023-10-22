@@ -1,37 +1,38 @@
 ! Homepage: https://github.com/doh-best/Public-DNS
-! Last modified: 2023-09-28
+! Last modified: 2023-10-22
 
 ! 白名單
+@@||data.em2.cloudflare.com^$important
 @@||google-analytics.com^$important
-@@||securepubads.g.doubleclick.net^$important
-@@||pubads.g.doubleclick.net^$important
 @@||lap-click.tr.line.me^$important
 @@||moptt.tw^$important
-@@||static.cloudflareinsights.com^$important
+@@||pubads.g.doubleclick.net^$important
+@@||securepubads.g.doubleclick.net^$important
 @@||shopback.go2cloud.org^important
-@@||data.em2.cloudflare.com^$important
+@@||static.cloudflareinsights.com^$important
+@@||tracking.agoda.com^$important
 
 ! 黑名單
-||qey.buzz^$important
-||zxj.one^$important
-||teiegarm-us.com^$important
-||wed3-org.cfd^$important
-||waiteer.buzz^$important
-||lulzim-gartenbau.de^$important
+||atoshpe.americommerce.com^$important
+||autidior.pages.net.br^$important
 ||fldhau.net^$important
+||got-hoi.cc^$important
+||i-teiegram.org^$important
+||lulzim-gartenbau.de^$important
+||mudis-tw.cc^$important
+||mvdlis-tw.top^$important
+||oefwudtwt.top^$important
+||qey.buzz^$important
+||teiegarm-us.com^$important
+||telegarm-web.com^$important
 ||telegarm.wed-c.mom^$important
-||waterappr.top^$important
+||telegrra.com^$important
 ||telegrsms.com^$important
 ||telegrzn-org.cc^$important
-||i-teiegram.org^$important
-||mvdlis-tw.top^$important
-||mudis-tw.cc^$important
-||oefwudtwt.top^$important
-||tw-mvdis.xyz^$important
-||telegrra.com^$important
 ||teleoram.xyz^$important
-||telegarm-web.com^$important
-||atoshpe.americommerce.com^$important
-||got-hoi.cc^$important
 ||tio-ha.cc^$important
-||autidior.pages.net.br^$important
+||tw-mvdis.xyz^$important
+||waiteer.buzz^$important
+||waterappr.top^$important
+||wed3-org.cfd^$important
+||zxj.one^$important
