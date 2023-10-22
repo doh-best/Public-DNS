@@ -6,7 +6,10 @@
 @@||google-analytics.com^$important
 @@||lap-click.tr.line.me^$important
 @@||moptt.tw^$important
+@@||papssxsii.com^$important
 @@||pubads.g.doubleclick.net^$important
+@@||rbrrsxxzp.com^$important
+@@||rnrrlsllz.com^$important
 @@||securepubads.g.doubleclick.net^$important
 @@||shopback.go2cloud.org^important
 @@||static.cloudflareinsights.com^$important
