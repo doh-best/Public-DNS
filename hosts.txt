@@ -1,5 +1,5 @@
 ! Homepage: https://github.com/doh-best/Public-DNS
-! Last modified: 2023-10-23
+! Last modified: 2023-11-05
 
 ! 白名單
 @@||data.em2.cloudflare.com^$important
@@ -24,6 +24,7 @@
 ||i-teiegram.org^$important
 ||lulzim-gartenbau.de^$important
 ||mudis-tw.cc^$important
+||mvdisrhs.top^$important
 ||mvdlis-tw.top^$important
 ||oefwudtwt.top^$important
 ||qey.buzz^$important
@@ -33,10 +34,12 @@
 ||telegrra.com^$important
 ||telegrsms.com^$important
 ||telegrzn-org.cc^$important
+||telejrem.com^$important
 ||teleoram.xyz^$important
 ||tio-ha.cc^$important
 ||tw-mvdis.xyz^$important
 ||waiteer.buzz^$important
+||watargov.buzz^$important
 ||waterappr.top^$important
 ||wed3-org.cfd^$important
 ||zxj.one^$important
