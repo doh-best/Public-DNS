@@ -12,7 +12,6 @@
 @@||shopback.go2cloud.org^important
 @@||static.cloudflareinsights.com^$important
 @@||tracking.agoda.com^$important
-@@||twetc-4d1cd.info^$important
 
 ! 黑名單
 ||atoshpe.americommerce.com^$important
@@ -38,6 +37,7 @@
 ||teleoram.xyz^$important
 ||tio-ha.cc^$important
 ||tw-mvdis.xyz^$important
+||twetc-4d1cd.info^$important
 ||waiteer.buzz^$important
 ||watargov.buzz^$important
 ||waterappr.top^$important
