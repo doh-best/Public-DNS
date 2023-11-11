@@ -17,6 +17,7 @@
 ! 黑名單
 ||atoshpe.americommerce.com^$important
 ||autidior.pages.net.br^$important
+||finalshell.org^$important
 ||fldhau.net^$important
 ||got-hoi.cc^$important
 ||i-teiegram.org^$important
@@ -29,6 +30,7 @@
 ||qey.buzz^$important
 ||rnrrlsllz.com^$important
 ||teiegarm-us.com^$important
+||telagam.com^$important
 ||telegarm-web.com^$important
 ||telegarm.wed-c.mom^$important
 ||telegrra.com^$important
