@@ -1,5 +1,5 @@
 ! Homepage: https://github.com/doh-best/Public-DNS
-! Last modified: 2023-11-11
+! Last modified: 2023-11-19
 
 ! 白名單
 @@||*.line-apps.com^$important
@@ -23,7 +23,9 @@
 ||i-teiegram.org^$important
 ||lulzim-gartenbau.de^$important
 ||mudis-tw.cc^$important
+||mvdiagou.top^$important
 ||mvdisrhs.top^$important
+||mvdiwgou.top^$important
 ||mvdlis-tw.top^$important
 ||oefwudtwt.top^$important
 ||papssxsii.com^$important
