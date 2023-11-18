@@ -17,6 +17,7 @@
 ! 黑名單
 ||atoshpe.americommerce.com^$important
 ||autidior.pages.net.br^$important
+||etc-npay.com^$important
 ||finalshell.org^$important
 ||fldhau.net^$important
 ||got-hoi.cc^$important
