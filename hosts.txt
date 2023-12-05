@@ -11,6 +11,7 @@
 @@||securepubads.g.doubleclick.net^$important
 @@||shopback.go2cloud.org^important
 @@||static.cloudflareinsights.com^$important
+@@||tr.iadsdk.apple.com^$important
 @@||tracking.agoda.com^$important
 
 ! 黑名單
