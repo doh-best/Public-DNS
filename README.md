@@ -6,7 +6,6 @@
 
 ### 12H Statistics，12H Log   
 
-## 台灣
 
 [IOS 描述檔](https://github.com/doh-best/Public-DNS/raw/main/doh.best.mobileconfig)
 
@@ -23,7 +22,6 @@ tls://doh.best
 quic://doh.best
 ```
 
-## 新加坡
 
 [IOS 描述檔](https://github.com/doh-best/Public-DNS/raw/main/dns.doh.best.mobileconfig)
 
