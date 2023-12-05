@@ -22,7 +22,7 @@ tls://doh.best
 quic://doh.best
 ```
 
-
+---
 [IOS 描述檔](https://github.com/doh-best/Public-DNS/raw/main/dns.doh.best.mobileconfig)
 
 ## DNS-over-HTTPS & HTTP/3
