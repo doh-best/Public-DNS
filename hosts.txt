@@ -1,12 +1,11 @@
 ! Homepage: https://github.com/doh-best/Public-DNS
-! Last modified: 2023-11-19
+! Last modified: 2023-12-06
 
 ! 白名單
 @@||*.line-apps.com^$important
 @@||*.line.me^$important
 @@||data.em2.cloudflare.com^$important
 @@||google-analytics.com^$important
-@@||lap-click.tr.line.me^$important
 @@||moptt.tw^$important
 @@||pubads.g.doubleclick.net^$important
 @@||securepubads.g.doubleclick.net^$important
