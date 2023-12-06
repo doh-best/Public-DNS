@@ -1,17 +1,20 @@
 ! Homepage: https://github.com/doh-best/Public-DNS
-! Last modified: 2023-12-06
+! Last modified: 2023-12-07
 
 ! 白名單
+@@||*.apple.com^$important
+@@||*.icloud.com^$important
 @@||*.line-apps.com^$important
 @@||*.line.me^$important
+@@||app-measurement.com^$important
 @@||data.em2.cloudflare.com^$important
+@@||gfp.veta.naver.com^$important
 @@||google-analytics.com^$important
 @@||moptt.tw^$important
 @@||pubads.g.doubleclick.net^$important
 @@||securepubads.g.doubleclick.net^$important
 @@||shopback.go2cloud.org^important
 @@||static.cloudflareinsights.com^$important
-@@||tr.iadsdk.apple.com^$important
 @@||tracking.agoda.com^$important
 
 ! 黑名單
