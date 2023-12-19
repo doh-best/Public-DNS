@@ -1,5 +1,5 @@
 ! Homepage: https://github.com/doh-best/Public-DNS
-! Last modified: 2023-12-07
+! Last modified: 2023-12-19
 
 ! 白名單
 @@||*.apple.com^$important
@@ -8,6 +8,8 @@
 @@||*.line.me^$important
 @@||app-measurement.com^$important
 @@||data.em2.cloudflare.com^$important
+@@||firebase-settings.crashlytics.com^$important
+@@||firebaselogging-pa.googleapis.com^$important
 @@||gfp.veta.naver.com^$important
 @@||google-analytics.com^$important
 @@||moptt.tw^$important
