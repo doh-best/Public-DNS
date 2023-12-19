@@ -4,7 +4,7 @@
 
 ### DNS 伺服器 [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome)   
 
-### 12H Statistics，12H Log   
+### 8H Statistics，1H Log   
 
 
 [IOS 描述檔](https://github.com/doh-best/Public-DNS/raw/main/doh.best.mobileconfig)
