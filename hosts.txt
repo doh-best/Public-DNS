@@ -7,6 +7,7 @@
 @@||*.icloud.com^$important
 @@||*.line-apps.com^$important
 @@||*.line.me^$important
+@@||analytics.google.com^$important
 @@||app-measurement.com^$important
 @@||data.em2.cloudflare.com^$important
 @@||firebase-settings.crashlytics.com^$important
@@ -15,8 +16,10 @@
 @@||moptt.tw^$important
 @@||pubads.g.doubleclick.net^$important
 @@||securepubads.g.doubleclick.net^$important
+@@||sentry.io^$important
 @@||shopback.go2cloud.org^important
 @@||static.cloudflareinsights.com^$important
+@@||test.com^$important
 @@||tracking.agoda.com^$important
 
 ! 黑名單
