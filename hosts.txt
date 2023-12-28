@@ -1,14 +1,8 @@
 ! Homepage: https://github.com/doh-best/Public-DNS
-! Last modified: 2023-12-27
+! Last modified: 2023-12-28
 
 ! 白名單
-@@||*.line-apps.com^$important
-@@||*.line.me^$important
-@@||analytics.google.com^$important
 @@||google-analytics.com^$important
-@@||pubads.g.doubleclick.net^$important
-@@||securepubads.g.doubleclick.net^$important
-@@||static.cloudflareinsights.com^$important
 
 ! 黑名單
 ||atoshpe.americommerce.com^$important
