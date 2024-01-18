@@ -1,13 +1,9 @@
 ! Homepage: https://github.com/doh-best/Public-DNS
-! Last modified: 2024-01-13
-
-! 白名單
+! Last modified: 2024-01-18
 @@||google-analytics.com^$important
+@@||lap-click.tr.line.me^$important
 @@||pubads.g.doubleclick.net^$important
 @@||securepubads.g.doubleclick.net^$important
-@@||lap-click.tr.line.me^$important
-
-! 黑名單
 ||atoshpe.americommerce.com^$important
 ||autidior.pages.net.br^$important
 ||etc-npay.com^$important
@@ -29,6 +25,7 @@
 ||telagam.com^$important
 ||telegarm-web.com^$important
 ||telegarm.wed-c.mom^$important
+||telegrom-zh.com^$important
 ||telegrra.com^$important
 ||telegrsms.com^$important
 ||telegrzn-org.cc^$important
