@@ -1,6 +1,6 @@
-
 ! Homepage: https://github.com/doh-best/Public-DNS
 ! Last modified: 2024-01-27
+@@||browser.pipe.aria.microsoft.com^$important
 @@||google-analytics.com^$important
 @@||lap-click.tr.line.me^$important
 @@||ovh.commander1.com^$important
