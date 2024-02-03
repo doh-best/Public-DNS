@@ -1,6 +1,7 @@
 ! Homepage: https://github.com/doh-best/Public-DNS
-! Last modified: 2024-01-27
+! Last modified: 2024-02-03
 @@||google-analytics.com^$important
+@@||is*-ssl.mzstatic.com^$important
 @@||lap-click.tr.line.me^$important
 @@||ovh.commander1.com^$important
 @@||pubads.g.doubleclick.net^$important
