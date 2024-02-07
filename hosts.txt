@@ -1,5 +1,5 @@
 ! Homepage: https://github.com/doh-best/Public-DNS
-! Last modified: 2024-02-03
+! Last modified: 2024-02-08
 @@||google-analytics.com^$important
 @@||is*-ssl.mzstatic.com^$important
 @@||lap-click.tr.line.me^$important
@@ -23,6 +23,7 @@
 ||papssxsii.com^$important
 ||qey.buzz^$important
 ||rnrrlsllz.com^$important
+||taiwanmobilen.cc^$important
 ||teiegarm-us.com^$important
 ||telagam.com^$important
 ||telegarm-web.com^$important
