@@ -53,5 +53,3 @@ https://adguardteam.github.io/HostlistsRegistry/assets/filter_50.txt
 https://adguardteam.github.io/HostlistsRegistry/assets/filter_11.txt
 
 https://adguardteam.github.io/HostlistsRegistry/assets/filter_10.txt
-
-https://filter.futa.gg/nrd/past-7day_abp.txt
