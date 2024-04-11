@@ -35,6 +35,9 @@ quic://dns.doh.best
 ```
 
 ---
+
+## 過濾清單
+
 https://raw.githubusercontent.com/doh-best/Public-DNS/main/hosts.txt
  
 https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
