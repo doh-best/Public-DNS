@@ -1,3 +1,5 @@
+## 台灣
+
 [IOS 描述檔](https://github.com/doh-best/Public-DNS/raw/main/doh.best.mobileconfig)
 
 ## DNS-over-HTTPS & HTTP/3
@@ -14,6 +16,9 @@ quic://doh.best
 ```
 
 ---
+
+## 新加坡
+
 [IOS 描述檔](https://github.com/doh-best/Public-DNS/raw/main/dns.doh.best.mobileconfig)
 
 ## DNS-over-HTTPS & HTTP/3
@@ -31,12 +36,19 @@ quic://dns.doh.best
 
 ---
 https://raw.githubusercontent.com/doh-best/Public-DNS/main/hosts.txt
-
-[AdGuard DNS filter](https://github.com/AdguardTeam/AdguardSDNSFilter)   
+ 
 https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 
-[LowTechFilter](https://github.com/FutaGuard/LowTechFilter)   
 https://raw.githubusercontent.com/FutaGuard/LowTechFilter/master/hosts.txt
 
-[LowTechFilter 臺灣 165 反詐騙](https://github.com/FutaGuard/LowTechFilter)   
 https://raw.githubusercontent.com/FutaGuard/LowTechFilter/master/TW165.txt
+
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_30.txt
+
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_50.txt
+
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_11.txt
+
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_10.txt
+
+https://filter.futa.gg/nrd/past-7day_abp.txt
