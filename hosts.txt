@@ -1,44 +1,8 @@
 ! Homepage: https://github.com/doh-best/Public-DNS
-! Last modified: 2024-02-08
+! Last modified: 2024-07-01
 @@||google-analytics.com^$important
 @@||is*-ssl.mzstatic.com^$important
 @@||lap-click.tr.line.me^$important
 @@||ovh.commander1.com^$important
 @@||pubads.g.doubleclick.net^$important
 @@||securepubads.g.doubleclick.net^$important
-||atoshpe.americommerce.com^$important
-||autidior.pages.net.br^$important
-||etc-npay.com^$important
-||finalshell.org^$important
-||fldhau.net^$important
-||got-hoi.cc^$important
-||i-teiegram.org^$important
-||lulzim-gartenbau.de^$important
-||mudis-tw.cc^$important
-||mvdiagou.top^$important
-||mvdisrhs.top^$important
-||mvdiwgou.top^$important
-||mvdlis-tw.top^$important
-||oefwudtwt.top^$important
-||papssxsii.com^$important
-||qey.buzz^$important
-||rnrrlsllz.com^$important
-||taiwanmobilen.cc^$important
-||teiegarm-us.com^$important
-||telagam.com^$important
-||telegarm-web.com^$important
-||telegarm.wed-c.mom^$important
-||telegrom-zh.com^$important
-||telegrra.com^$important
-||telegrsms.com^$important
-||telegrzn-org.cc^$important
-||telejrem.com^$important
-||teleoram.xyz^$important
-||tio-ha.cc^$important
-||tw-mvdis.xyz^$important
-||twetc-4d1cd.info^$important
-||waiteer.buzz^$important
-||watargov.buzz^$important
-||waterappr.top^$important
-||wed3-org.cfd^$important
-||zxj.one^$important
