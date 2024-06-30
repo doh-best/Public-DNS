@@ -1,4 +1,4 @@
-## 台灣
+## DNS
 
 [IOS 描述檔](https://github.com/doh-best/Public-DNS/raw/main/doh.best.mobileconfig)
 
@@ -13,25 +13,6 @@ tls://doh.best
 ## DNS over QUIC
 ```
 quic://doh.best
-```
-
----
-
-## 新加坡
-
-[IOS 描述檔](https://github.com/doh-best/Public-DNS/raw/main/dns.doh.best.mobileconfig)
-
-## DNS-over-HTTPS & HTTP/3
-```
-https://dns.doh.best/dns-query
-```
-## DNS over TLS
-```
-tls://dns.doh.best
-```
-## DNS over QUIC
-```
-quic://dns.doh.best
 ```
 
 ---
