@@ -6,3 +6,4 @@
 @@||ovh.commander1.com^$important
 @@||pubads.g.doubleclick.net^$important
 @@||securepubads.g.doubleclick.net^$important
+@@||static.cloudflareinsights.com^$important
