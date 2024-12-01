@@ -19,20 +19,14 @@ quic://doh.best
 
 ## 過濾清單
 
-https://raw.githubusercontent.com/doh-best/Public-DNS/main/hosts.txt
- 
+https://github.com/doh-best/Public-DNS/raw/main/hosts.txt
+
 https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 
-https://raw.githubusercontent.com/FutaGuard/LowTechFilter/master/TW165.txt
+https://filter.futa.gg/TW165_abp.txt
 
-https://adguardteam.github.io/HostlistsRegistry/assets/filter_10.txt
-
-https://adguardteam.github.io/HostlistsRegistry/assets/filter_11.txt
-
-https://adguardteam.github.io/HostlistsRegistry/assets/filter_18.txt
-
-https://adguardteam.github.io/HostlistsRegistry/assets/filter_30.txt
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_50.txt
 
 https://adguardteam.github.io/HostlistsRegistry/assets/filter_42.txt
 
-https://adguardteam.github.io/HostlistsRegistry/assets/filter_50.txt
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_18.txt
