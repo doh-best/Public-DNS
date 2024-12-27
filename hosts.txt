@@ -1,6 +1,2 @@
 ! Homepage: https://github.com/doh-best/Public-DNS
 ! Last modified: 2024-12-27
-@@||lihi.cc^$important
-@@||lihi1.com^$important
-@@||lihi2.cc^$important
-@@||lihi3.cc^$important
