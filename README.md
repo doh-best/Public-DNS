@@ -21,8 +21,6 @@ quic://doh.best
 
 https://github.com/doh-best/Public-DNS/raw/main/hosts.txt
 
-https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-
 https://filter.futa.gg/TW165_abp.txt
 
 https://adguardteam.github.io/HostlistsRegistry/assets/filter_50.txt
@@ -30,3 +28,17 @@ https://adguardteam.github.io/HostlistsRegistry/assets/filter_50.txt
 https://adguardteam.github.io/HostlistsRegistry/assets/filter_42.txt
 
 https://adguardteam.github.io/HostlistsRegistry/assets/filter_18.txt
+
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_30.txt
+
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_31.txt
+
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_44.txt
+
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_8.txt
+
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_10.txt
+
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_9.txt
+
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_11.txt
