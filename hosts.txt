@@ -5,6 +5,9 @@
 @@||moe_gsze.api-04.moengage.com^$important
 @@||ovh.commander1.com^$important
 @@||www3.doubleclick.net^$important
+@@||apple.com^$important
+@@||apple-dns.net^$important
+@@||icloud.com^$important
 !
 !
 !
