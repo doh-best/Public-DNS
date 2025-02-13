@@ -1,13 +1,15 @@
 ! Homepage: https://github.com/doh-best/Public-DNS
-! Last modified: 2025-1-2
+! Last modified: 2025-2-13
+@@||ads.google.com^
+@@||apple-dns.net^
+@@||apple.com^
+@@||graph.instagram.com^
+@@||icloud.com^
 @@||lap-click.tr.line.me^
 @@||lihi1.com^
 @@||moe_gsze.api-04.moengage.com^
 @@||ovh.commander1.com^
 @@||www3.doubleclick.net^
-@@||apple.com^
-@@||apple-dns.net^
-@@||icloud.com^
 !
 !
 !
