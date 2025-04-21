@@ -1,5 +1,5 @@
 ! Homepage: https://github.com/doh-best/Public-DNS
-! Last modified: 2025-2-13
+! Last modified: 2025-4-21
 @@||ads.google.com^
 @@||apple-dns.net^
 @@||apple.com^
@@ -9,6 +9,7 @@
 @@||lihi1.com^
 @@||moe_gsze.api-04.moengage.com^
 @@||ovh.commander1.com^
+@@||securepubads.g.doubleclick.net^
 @@||www3.doubleclick.net^
 !
 !
