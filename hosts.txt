@@ -1,45 +1,21 @@
 ! Homepage: https://github.com/doh-best/Public-DNS
-! Last modified: 2025-4-21
+! Last modified: 2025-5-21
 @@||ads.google.com^
+@@||analytics.google.com^
 @@||apple-dns.net^
 @@||apple.com^
-@@||graph.instagram.com^
-@@||icloud.com^
-@@||lap-click.tr.line.me^
-@@||lihi1.com^
-@@||moe_gsze.api-04.moengage.com^
-@@||ovh.commander1.com^
-@@||securepubads.g.doubleclick.net^
-@@||www3.doubleclick.net^
-!
-!
-!
-! https://raw.githubusercontent.com/bestpika/abp/refs/heads/master/hosts.txt
-@@||amazon.co.jp^
-@@||amazon.com^
-@@||analytics.google.com^
-@@||cdn.muut.com^
-@@||cloud.unity3d.com^
 @@||cloudfront.net^
 @@||crash.steampowered.com^
-@@||data.microsoft.com^
-@@||durasite.net^
-@@||fastly.net^
-@@||firebaseio.com^
 @@||google-analytics.com^
-@@||googleusercontent.com^
-@@||intel.com^
-@@||ipinfo.io^
+@@||graph.instagram.com^
+@@||icloud.com^
 @@||joinhoney.com^
-@@||live.adyen.com^
-@@||marfeelcdn.com^
+@@||lap-click.tr.line.me^
 @@||mc.yandex.ru^
+@@||moe_gsze.api-04.moengage.com^
+@@||ovh.commander1.com^
 @@||p.typekit.net^
 @@||plausible.io^
-@@||steelseries.com^
-@@||stripe.com^
-@@||surge.sh^
-@@||telemetry.microsoft.com^
-@@||video.yahoo.com^
+@@||securepubads.g.doubleclick.net^
 @@||whitesmoke.com^
-@@||ws.microsoft.com^
+@@||www3.doubleclick.net^
