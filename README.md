@@ -108,9 +108,11 @@
 
 ---
 
-## DNS
+## DNS 隱私
 
 [IOS DoH 描述檔](https://file.doh.best/doh.mobileconfig)
+
+[IOS DoH 描述檔](https://file.doh.best/dot.mobileconfig)
 
 ## DNS-over-HTTPS & HTTP/3
 ```
