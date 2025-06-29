@@ -110,7 +110,7 @@
 
 ## DNS
 
-[IOS 描述檔](https://github.com/doh-best/Public-DNS/raw/main/doh.best.mobileconfig)
+[IOS DoH 描述檔](https://file.doh.best/doh.mobileconfig)
 
 ## DNS-over-HTTPS & HTTP/3
 ```
