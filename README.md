@@ -141,4 +141,6 @@ https://adguardteam.github.io/HostlistsRegistry/assets/filter_48.txt
 
 https://adguardteam.github.io/HostlistsRegistry/assets/filter_5.txt
 
-https://raw.githubusercontent.com/xRuffKez/NRD/refs/heads/main/lists/30-day_phishing/adblock/nrd-phishing-30day_adblock.txt
+https://raw.githubusercontent.com/xRuffKez/NRD/refs/heads/main/lists/14-day_phishing/adblock/nrd-phishing-14day_adblock.txt
+
+https://raw.githubusercontent.com/xRuffKez/NRD/refs/heads/main/lists/14-day_dga/adblock/nrd-14day-dga_adblock.txt
