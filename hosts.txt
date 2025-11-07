@@ -1,9 +1,10 @@
 ! Homepage: https://github.com/doh-best/Public-DNS
-! Last modified: 2025-7-4
+! Last modified: 2025-11-7
 @@||ads.google.com^
 @@||analytics.google.com^
 @@||apple-dns.net^
 @@||apple.com^
+@@||cloudflareinsights.com^
 @@||cloudfront.net^
 @@||crash.steampowered.com^
 @@||google-analytics.com^
