@@ -5,7 +5,7 @@
 
 [IOS DoT 描述檔](https://file.doh.best/dot.mobileconfig)
 
-## DNS-over-HTTPS & HTTP/3
+## DNS-over-HTTPS
 ```
 https://doh.best/dns-query
 ```
