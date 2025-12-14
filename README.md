@@ -28,14 +28,8 @@ https://filter.futa.gg/hosts_abp.txt
 
 https://filter.futa.gg/TW165_abp.txt
 
-https://adguardteam.github.io/HostlistsRegistry/assets/filter_48.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/pro.txt
 
-https://adguardteam.github.io/HostlistsRegistry/assets/filter_5.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/fake.txt
 
-https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/dga7.txt
-
-https://adguardteam.github.io/HostlistsRegistry/assets/filter_5.txt
-
-https://raw.githubusercontent.com/xRuffKez/NRD/refs/heads/main/lists/14-day_phishing/adblock/nrd-phishing-14day_adblock.txt
-
-https://raw.githubusercontent.com/xRuffKez/NRD/refs/heads/main/lists/14-day_dga/adblock/nrd-14day-dga_adblock.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/dga7.txt
