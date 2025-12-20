@@ -1,5 +1,5 @@
 ! Homepage: https://github.com/doh-best/Public-DNS
-! Last modified: 2025-11-7
+! Last modified: 2025-12-20
 @@||ads.google.com^
 @@||analytics.google.com^
 @@||apple-dns.net^
@@ -20,5 +20,6 @@
 @@||plausible.io^
 @@||pubads.g.doubleclick.net^
 @@||securepubads.g.doubleclick.net^
+@@||sfn-static.sensorsdata.cn^
 @@||whitesmoke.com^
 @@||www3.doubleclick.net^
